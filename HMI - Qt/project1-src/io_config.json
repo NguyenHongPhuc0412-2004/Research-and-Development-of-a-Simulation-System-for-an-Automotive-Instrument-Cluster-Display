@@ -1,0 +1,42 @@
+{
+  "digital_inputs": {
+    "button_s1": 0,
+    "button_s2": 1,
+    "button_s3": 2,
+    "button_s4": 3,
+    "button_s5": 9,
+    "button_s6": 10,
+    "button_s7": 11,
+    "button_s8": 12,
+    "button_s9": 18,
+    "button_s10": 19,
+    "button_s11": 20,
+    "button_s12": 21,
+    "ignition": 8,
+    "high_beam_switch": 22,
+    "low_beam_switch": 23,
+    "parking_lights_switch": 24,
+    "turn_left_switch": 25,
+    "turn_right_switch": 26,
+    "hazard_switch": 27,
+    "crash_sensor": 7
+  },
+  "analog_inputs": {
+    "speed": 0,
+    "temperature": 2,
+    "humidity": 3,
+    "encoder": 4,
+    "ultrasonic": 8
+  },
+  "digital_outputs": {
+    "left_front_light": 10,
+    "left_rear_light": 1,
+    "right_front_light": 19,
+    "right_rear_light": 28,
+    "left_turn_led": 8,
+    "right_turn_led": 12,
+    "red_led": 22,
+    "left_door_servo": 24,
+    "right_door_servo": 25
+  }
+}

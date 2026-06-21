@@ -1,0 +1,446 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/background.png</file>
+        <file>assets/background.svg</file>
+        <file>assets/Car.svg</file>
+        <file>assets/car_main_brake.png</file>
+        <file>assets/Dashboard.svg</file>
+        <file>assets/FirstRightIcon.svg</file>
+        <file>assets/FirstRightIcon_grey.svg</file>
+        <file>assets/FourthRightIcon.svg</file>
+        <file>assets/FourthRightIcon_red.svg</file>
+        <file>assets/fuel.svg</file>
+        <file>assets/img.txt</file>
+        <file>assets/Light_White.svg</file>
+        <file>assets/Lights.svg</file>
+        <file>assets/Low beam headlights.svg</file>
+        <file>assets/Low_beam_headlights_white.svg</file>
+        <file>assets/Model 3.png</file>
+        <file>assets/Model 3.svg</file>
+        <file>assets/needle.svg</file>
+        <file>assets/newcar.svg</file>
+        <file>assets/Parking lights.svg</file>
+        <file>assets/Parking_lights_white.svg</file>
+        <file>assets/Rare fog lights.svg</file>
+        <file>assets/Rare_fog_lights_red.svg</file>
+        <file>assets/road.svg</file>
+        <file>assets/SecondRightIcon.svg</file>
+        <file>assets/SecondRightIcon_red.svg</file>
+        <file>assets/speedometer.svg</file>
+        <file>assets/thirdRightIcon.svg</file>
+        <file>assets/thirdRightIcon_red.svg</file>
+        <file>assets/tickmark.svg</file>
+        <file>assets/Vector 1.svg</file>
+        <file>assets/Vector 2.svg</file>
+        <file>assets/Vector 70.svg</file>
+        <file>Gauge.qml</file>
+        <file>SideGauge.qml</file>
+        <file>img/background.png</file>
+        <file>img/background.svg</file>
+        <file>img/cirlcle.svg</file>
+        <file>img/Ellipse 1.svg</file>
+        <file>img/Ellipse 5.svg</file>
+        <file>img/Ellipse 6.svg</file>
+        <file>img/img.txt</file>
+        <file>img/maxLimit.svg</file>
+        <file>img/needle.svg</file>
+        <file>img/Rectangle 4.svg</file>
+        <file>img/ring.svg</file>
+        <file>img/sub.svg</file>
+        <file>img/Subtract.svg</file>
+        <file>img/tickmark.svg</file>
+        <file>assets/arrow_left.svg</file>
+        <file>assets/arrow_right.svg</file>
+        <file>assets/Dark_blue_right_arrow.svg</file>
+        <file>assets/Dark_blue_left_arrow.svg</file>
+        <file>Dashboard1.qml</file>
+        <file>Dashboard2.qml</file>
+        <file>MapGauge.qml</file>
+        <file>assets/battery2.png</file>
+        <file>assets/lightning.png</file>
+        <file>assets/tree.png</file>
+        <file>assets/road.png</file>
+        <file>assets/road2.png</file>
+        <file>assets/road3.svg</file>
+        <file>assets/car.png</file>
+        <file>assets/icon-park-solid_left-two.svg</file>
+        <file>assets/icon-park-solid_right-two.svg</file>
+        <file>assets/Top Bar.png</file>
+        <file>assets/Panel.png</file>
+        <file>assets/panel.svg</file>
+        <file>WelcomeScreen.qml</file>
+        <file>assets/car_bg.jpg</file>
+        <file>animIcons/icons8-car.gif</file>
+        <file>animIcons/icons8-destination.gif</file>
+        <file>Components/Footer.qml</file>
+        <file>Components/Header.qml</file>
+        <file>Components/Icon.qml</file>
+        <file>Components/IconButton.qml</file>
+        <file>Components/LauncherButton.qml</file>
+        <file>Components/LaunchPadControl.qml</file>
+        <file>Components/StepperControl.qml</file>
+        <file>Components/TopLeftButtonIconColumn.qml</file>
+        <file>Components/TopLeftControl.qml</file>
+        <file>Components/TopMiddleControl.qml</file>
+        <file>Components/TopRightControl.qml</file>
+        <file>driving_icons/child safety.svg</file>
+        <file>driving_icons/mirror.svg</file>
+        <file>driving_icons/Recording.svg</file>
+        <file>driving_icons/Sentry.svg</file>
+        <file>driving_icons/steer wheel position.svg</file>
+        <file>Fonts/Unitext Regular.ttf</file>
+        <file>icons/app_icons/bluetooth.svg</file>
+        <file>icons/app_icons/calendar.svg</file>
+        <file>icons/app_icons/caraoke.svg</file>
+        <file>icons/app_icons/dashcam.svg</file>
+        <file>icons/app_icons/front-defrost.svg</file>
+        <file>icons/app_icons/messages.svg</file>
+        <file>icons/app_icons/model-3.svg</file>
+        <file>icons/app_icons/music.svg</file>
+        <file>icons/app_icons/phone.svg</file>
+        <file>icons/app_icons/radio.svg</file>
+        <file>icons/app_icons/rear-defrost.svg</file>
+        <file>icons/app_icons/recording.svg</file>
+        <file>icons/app_icons/seat-warmer.svg</file>
+        <file>icons/app_icons/seat.svg</file>
+        <file>icons/app_icons/spotify.svg</file>
+        <file>icons/app_icons/steering-wheel-warmer.svg</file>
+        <file>icons/app_icons/toybox.svg</file>
+        <file>icons/app_icons/tunein.svg</file>
+        <file>icons/app_icons/video.svg</file>
+        <file>icons/app_icons/volume.svg</file>
+        <file>icons/app_icons/wiper.svg</file>
+        <file>icons/app_icons/zoom.svg</file>
+        <file>icons/car_action_icons/dark/lock.svg</file>
+        <file>icons/car_action_icons/dark/Power.svg</file>
+        <file>icons/car_action_icons/lock.svg</file>
+        <file>icons/car_action_icons/Power.svg</file>
+        <file>icons/dark/background_image.png</file>
+        <file>icons/dark/lock.svg</file>
+        <file>icons/dark/Power.svg</file>
+        <file>icons/dark/sidebar-light.png</file>
+        <file>icons/light/background_image.png</file>
+        <file>icons/light/sidebar.png</file>
+        <file>icons/stepper_icons/left-arrow.svg</file>
+        <file>icons/stepper_icons/right-arrow.svg</file>
+        <file>icons/top_header_icons/dark/icons.svg</file>
+        <file>icons/top_header_icons/dark/lock.svg</file>
+        <file>icons/top_header_icons/dark/Sentry.svg</file>
+        <file>icons/top_header_icons/airbag_.svg</file>
+        <file>icons/top_header_icons/battery.svg</file>
+        <file>icons/top_header_icons/icons.svg</file>
+        <file>icons/top_header_icons/lock.svg</file>
+        <file>icons/top_header_icons/Sentry.svg</file>
+        <file>icons/main control bar.svg</file>
+        <file>light-icons/Icons/headlight/white.svg</file>
+        <file>light-icons/Headlight2.svg</file>
+        <file>light-icons/Headlights.svg</file>
+        <file>light-icons/Icons.svg</file>
+        <file>light-icons/Property 1=Default.svg</file>
+        <file>light-icons/Property 1=Variant2.svg</file>
+        <file>light-icons/Seatbelt.svg</file>
+        <file>Map/CarMarker.png</file>
+        <file>Map/LocationMarker.png</file>
+        <file>network_icons/Dark Mode=Off.svg</file>
+        <file>network_icons/Dark Mode=On.svg</file>
+        <file>network_icons/icon=alar, color=light.svg</file>
+        <file>network_icons/icon=alarm, color=dark.svg</file>
+        <file>network_icons/icon=bluetooth, color=dark.svg</file>
+        <file>network_icons/icon=bluetooth, color=light.svg</file>
+        <file>network_icons/icon=notification, color=dark.svg</file>
+        <file>network_icons/icon=notification, color=light.svg</file>
+        <file>network_icons/icon=software, color=dark.svg</file>
+        <file>network_icons/icon=software, color=light.svg</file>
+        <file>network_icons/icon=wifi, color=dark.svg</file>
+        <file>network_icons/icon=wifi, color=light.svg</file>
+        <file>Nunito_Sans/NunitoSans-Black.ttf</file>
+        <file>Nunito_Sans/NunitoSans-BlackItalic.ttf</file>
+        <file>Nunito_Sans/NunitoSans-Bold.ttf</file>
+        <file>Nunito_Sans/NunitoSans-BoldItalic.ttf</file>
+        <file>Nunito_Sans/NunitoSans-ExtraBold.ttf</file>
+        <file>Nunito_Sans/NunitoSans-ExtraBoldItalic.ttf</file>
+        <file>Nunito_Sans/NunitoSans-ExtraLight.ttf</file>
+        <file>Nunito_Sans/NunitoSans-ExtraLightItalic.ttf</file>
+        <file>Nunito_Sans/NunitoSans-Italic.ttf</file>
+        <file>Nunito_Sans/NunitoSans-Light.ttf</file>
+        <file>Nunito_Sans/NunitoSans-LightItalic.ttf</file>
+        <file>Nunito_Sans/NunitoSans-Regular.ttf</file>
+        <file>Nunito_Sans/NunitoSans-SemiBold.ttf</file>
+        <file>Nunito_Sans/NunitoSans-SemiBoldItalic.ttf</file>
+        <file>other_icons/Icon=chevron down, Color=white.svg</file>
+        <file>other_icons/Icon=chevron up, Color=white.svg</file>
+        <file>other_icons/Icon=controls, Color=white.svg</file>
+        <file>other_icons/Icon=display, Color=white.svg</file>
+        <file>other_icons/Icon=eye, Color=white.svg</file>
+        <file>other_icons/Icon=lights, Color=white.svg</file>
+        <file>other_icons/Icon=lock, Color=white.svg</file>
+        <file>other_icons/Icon=model-3, Color=white.svg</file>
+        <file>other_icons/Icon=navigation, Color=white.svg</file>
+        <file>other_icons/Icon=point, Color=white.svg</file>
+        <file>other_icons/Icon=power, Color=white.svg</file>
+        <file>other_icons/Icon=search, Color=white.svg</file>
+        <file>other_icons/Icon=security, Color=white.svg</file>
+        <file>other_icons/Icon=service, Color=white.svg</file>
+        <file>other_icons/Icon=shop, Color=white.svg</file>
+        <file>other_icons/Icon=software, Color=white.svg</file>
+        <file>other_icons/Icon=steering wheel, Color=white.svg</file>
+        <file>other_icons/Icon=trip, Color=white.svg</file>
+        <file>other_icons/Icon=unlocked, Color=dark.svg</file>
+        <file>LayoutManager.js</file>
+        <file>NavigationMapHelperScreen.qml</file>
+        <file>NavigationMapScreen.qml</file>
+        <file>Style.qml</file>
+        <file>qmldir</file>
+        <file>Dashboard3.qml</file>
+        <file>io_configs/io_config.json</file>
+        <file>io_config.json</file>
+        <file>assets/battery3.png</file>
+        <file>assets/car_1.svg</file>
+        <file>assets/Dashboard2.svg</file>
+        <file>assets/Dashboard3.svg</file>
+        <file>assets/Dashboard4.svg</file>
+        <file>assets/Dashboard5.svg</file>
+        <file>assets/Vector.svg</file>
+        <file>assets/Vector_ex.svg</file>
+        <file>assets/Vector_fix.svg</file>
+        <file>assets/white-line-left.png</file>
+        <file>assets/white-line-right.png</file>
+        <file>assets/xe1.svg</file>
+        <file>assets/xe2.svg</file>
+        <file>assets/xe3.svg</file>
+        <file>assets/xe4.svg</file>
+        <file>assets/xe5.svg</file>
+        <file>assets/xe6.svg</file>
+        <file>Components/pathsProvider.js</file>
+        <file>Components/VehicleDashboard.qml</file>
+        <file>Components/VehicleStore.qml</file>
+        <file>assets/images/ic_background.png</file>
+        <file>assets/images/ic_bodyVehicle.png</file>
+        <file>assets/images/ic_leftDoorAlarmVehicle.png</file>
+        <file>assets/images/ic_leftDoorClosedVehicle.png</file>
+        <file>assets/images/ic_leftDoorOpenedVehicle.png</file>
+        <file>assets/images/ic_leftDoorOpenedVehicleCarPart.png</file>
+        <file>assets/images/ic_rightDoorAlarmVehicle.png</file>
+        <file>assets/images/ic_rightDoorClosedVehicle.png</file>
+        <file>assets/images/ic_rightDoorOpenedVehicle.png</file>
+        <file>assets/images/ic_rightDoorOpenedVehicleCarPart.png</file>
+        <file>assets/images/ic_roofAlarmVehicle.png</file>
+        <file>assets/images/ic_roofClosedVehicle.png</file>
+        <file>assets/images/ic_roofOpenedVehicle.png</file>
+        <file>assets/images/ic_trunkAlarmVehicle.png</file>
+        <file>assets/images/ic_trunkClosedVehicle.png</file>
+        <file>assets/images/ic_trunkOpenedVehicle.png</file>
+        <file>Components/Vehicle2DPanel.qml</file>
+        <file>assets/headlights.svg</file>
+        <file>assets/model 3.svg</file>
+        <file>tesla_assets/Scene.qml</file>
+        <file>tesla_assets/maps/back_chrome_light.0_baseColor.png</file>
+        <file>tesla_assets/maps/belt.0_baseColor.png</file>
+        <file>tesla_assets/maps/dvorright.0_baseColor.png</file>
+        <file>tesla_assets/maps/glass.0_baseColor.png</file>
+        <file>tesla_assets/maps/glass.1_baseColor.png</file>
+        <file>tesla_assets/maps/hub_rb.0_baseColor.png</file>
+        <file>tesla_assets/maps/hub_rf.1_baseColor.png</file>
+        <file>tesla_assets/maps/LCDs.0_baseColor.png</file>
+        <file>tesla_assets/maps/light_pantulan.0_baseColor.png</file>
+        <file>tesla_assets/maps/movsteer_1.0.0_baseColor.png</file>
+        <file>tesla_assets/maps/movsteer_1.0.1_baseColor.png</file>
+        <file>tesla_assets/maps/pantulans.0_baseColor.png</file>
+        <file>tesla_assets/maps/primary.001_baseColor.png</file>
+        <file>tesla_assets/maps/primary.002_baseColor.png</file>
+        <file>tesla_assets/maps/Putih.0_baseColor.png</file>
+        <file>tesla_assets/maps/right_rear_light_baseColor.png</file>
+        <file>tesla_assets/maps/tembus_red.0_baseColor.png</file>
+        <file>tesla_assets/maps/texture_Buttons.0_baseColor.png</file>
+        <file>tesla_assets/maps/wheels.2_baseColor.png</file>
+        <file>tesla_assets/maps/wheels.3_baseColor.png</file>
+        <file>tesla_assets/maps/wheels.4_baseColor.png</file>
+        <file>tesla_assets/maps/wheels.6_baseColor.png</file>
+        <file>tesla_assets/meshes/object_101.mesh</file>
+        <file>tesla_assets/meshes/object_104.mesh</file>
+        <file>tesla_assets/meshes/object_107.mesh</file>
+        <file>tesla_assets/meshes/object_110.mesh</file>
+        <file>tesla_assets/meshes/object_113.mesh</file>
+        <file>tesla_assets/meshes/object_116.mesh</file>
+        <file>tesla_assets/meshes/object_119.mesh</file>
+        <file>tesla_assets/meshes/object_12.mesh</file>
+        <file>tesla_assets/meshes/object_122.mesh</file>
+        <file>tesla_assets/meshes/object_125.mesh</file>
+        <file>tesla_assets/meshes/object_128.mesh</file>
+        <file>tesla_assets/meshes/object_131.mesh</file>
+        <file>tesla_assets/meshes/object_134.mesh</file>
+        <file>tesla_assets/meshes/object_137.mesh</file>
+        <file>tesla_assets/meshes/object_140.mesh</file>
+        <file>tesla_assets/meshes/object_142.mesh</file>
+        <file>tesla_assets/meshes/object_145.mesh</file>
+        <file>tesla_assets/meshes/object_148.mesh</file>
+        <file>tesla_assets/meshes/object_15.mesh</file>
+        <file>tesla_assets/meshes/object_151.mesh</file>
+        <file>tesla_assets/meshes/object_154.mesh</file>
+        <file>tesla_assets/meshes/object_157.mesh</file>
+        <file>tesla_assets/meshes/object_160.mesh</file>
+        <file>tesla_assets/meshes/object_163.mesh</file>
+        <file>tesla_assets/meshes/object_166.mesh</file>
+        <file>tesla_assets/meshes/object_169.mesh</file>
+        <file>tesla_assets/meshes/object_17.mesh</file>
+        <file>tesla_assets/meshes/object_172.mesh</file>
+        <file>tesla_assets/meshes/object_175.mesh</file>
+        <file>tesla_assets/meshes/object_178.mesh</file>
+        <file>tesla_assets/meshes/object_181.mesh</file>
+        <file>tesla_assets/meshes/object_184.mesh</file>
+        <file>tesla_assets/meshes/object_187.mesh</file>
+        <file>tesla_assets/meshes/object_190.mesh</file>
+        <file>tesla_assets/meshes/object_193.mesh</file>
+        <file>tesla_assets/meshes/object_196.mesh</file>
+        <file>tesla_assets/meshes/object_199.mesh</file>
+        <file>tesla_assets/meshes/object_20.mesh</file>
+        <file>tesla_assets/meshes/object_202.mesh</file>
+        <file>tesla_assets/meshes/object_205.mesh</file>
+        <file>tesla_assets/meshes/object_208.mesh</file>
+        <file>tesla_assets/meshes/object_211.mesh</file>
+        <file>tesla_assets/meshes/object_214.mesh</file>
+        <file>tesla_assets/meshes/object_217.mesh</file>
+        <file>tesla_assets/meshes/object_219.mesh</file>
+        <file>tesla_assets/meshes/object_22.mesh</file>
+        <file>tesla_assets/meshes/object_222.mesh</file>
+        <file>tesla_assets/meshes/object_225.mesh</file>
+        <file>tesla_assets/meshes/object_228.mesh</file>
+        <file>tesla_assets/meshes/object_231.mesh</file>
+        <file>tesla_assets/meshes/object_234.mesh</file>
+        <file>tesla_assets/meshes/object_237.mesh</file>
+        <file>tesla_assets/meshes/object_239.mesh</file>
+        <file>tesla_assets/meshes/object_243.mesh</file>
+        <file>tesla_assets/meshes/object_246.mesh</file>
+        <file>tesla_assets/meshes/object_249.mesh</file>
+        <file>tesla_assets/meshes/object_251.mesh</file>
+        <file>tesla_assets/meshes/object_253.mesh</file>
+        <file>tesla_assets/meshes/object_255.mesh</file>
+        <file>tesla_assets/meshes/object_258.mesh</file>
+        <file>tesla_assets/meshes/object_26.mesh</file>
+        <file>tesla_assets/meshes/object_261.mesh</file>
+        <file>tesla_assets/meshes/object_264.mesh</file>
+        <file>tesla_assets/meshes/object_267.mesh</file>
+        <file>tesla_assets/meshes/object_270.mesh</file>
+        <file>tesla_assets/meshes/object_273.mesh</file>
+        <file>tesla_assets/meshes/object_276.mesh</file>
+        <file>tesla_assets/meshes/object_279.mesh</file>
+        <file>tesla_assets/meshes/object_283.mesh</file>
+        <file>tesla_assets/meshes/object_285.mesh</file>
+        <file>tesla_assets/meshes/object_287.mesh</file>
+        <file>tesla_assets/meshes/object_289.mesh</file>
+        <file>tesla_assets/meshes/object_291.mesh</file>
+        <file>tesla_assets/meshes/object_293.mesh</file>
+        <file>tesla_assets/meshes/object_295.mesh</file>
+        <file>tesla_assets/meshes/object_297.mesh</file>
+        <file>tesla_assets/meshes/object_299.mesh</file>
+        <file>tesla_assets/meshes/object_30.mesh</file>
+        <file>tesla_assets/meshes/object_301.mesh</file>
+        <file>tesla_assets/meshes/object_303.mesh</file>
+        <file>tesla_assets/meshes/object_305.mesh</file>
+        <file>tesla_assets/meshes/object_307.mesh</file>
+        <file>tesla_assets/meshes/object_309.mesh</file>
+        <file>tesla_assets/meshes/object_312.mesh</file>
+        <file>tesla_assets/meshes/object_316.mesh</file>
+        <file>tesla_assets/meshes/object_318.mesh</file>
+        <file>tesla_assets/meshes/object_320.mesh</file>
+        <file>tesla_assets/meshes/object_322.mesh</file>
+        <file>tesla_assets/meshes/object_324.mesh</file>
+        <file>tesla_assets/meshes/object_326.mesh</file>
+        <file>tesla_assets/meshes/object_328.mesh</file>
+        <file>tesla_assets/meshes/object_330.mesh</file>
+        <file>tesla_assets/meshes/object_332.mesh</file>
+        <file>tesla_assets/meshes/object_334.mesh</file>
+        <file>tesla_assets/meshes/object_336.mesh</file>
+        <file>tesla_assets/meshes/object_338.mesh</file>
+        <file>tesla_assets/meshes/object_34.mesh</file>
+        <file>tesla_assets/meshes/object_341.mesh</file>
+        <file>tesla_assets/meshes/object_345.mesh</file>
+        <file>tesla_assets/meshes/object_347.mesh</file>
+        <file>tesla_assets/meshes/object_349.mesh</file>
+        <file>tesla_assets/meshes/object_351.mesh</file>
+        <file>tesla_assets/meshes/object_353.mesh</file>
+        <file>tesla_assets/meshes/object_355.mesh</file>
+        <file>tesla_assets/meshes/object_357.mesh</file>
+        <file>tesla_assets/meshes/object_359.mesh</file>
+        <file>tesla_assets/meshes/object_36.mesh</file>
+        <file>tesla_assets/meshes/object_361.mesh</file>
+        <file>tesla_assets/meshes/object_363.mesh</file>
+        <file>tesla_assets/meshes/object_365.mesh</file>
+        <file>tesla_assets/meshes/object_367.mesh</file>
+        <file>tesla_assets/meshes/object_369.mesh</file>
+        <file>tesla_assets/meshes/object_372.mesh</file>
+        <file>tesla_assets/meshes/object_376.mesh</file>
+        <file>tesla_assets/meshes/object_378.mesh</file>
+        <file>tesla_assets/meshes/object_38.mesh</file>
+        <file>tesla_assets/meshes/object_380.mesh</file>
+        <file>tesla_assets/meshes/object_382.mesh</file>
+        <file>tesla_assets/meshes/object_384.mesh</file>
+        <file>tesla_assets/meshes/object_386.mesh</file>
+        <file>tesla_assets/meshes/object_388.mesh</file>
+        <file>tesla_assets/meshes/object_390.mesh</file>
+        <file>tesla_assets/meshes/object_392.mesh</file>
+        <file>tesla_assets/meshes/object_394.mesh</file>
+        <file>tesla_assets/meshes/object_396.mesh</file>
+        <file>tesla_assets/meshes/object_399.mesh</file>
+        <file>tesla_assets/meshes/object_403.mesh</file>
+        <file>tesla_assets/meshes/object_407.mesh</file>
+        <file>tesla_assets/meshes/object_410.mesh</file>
+        <file>tesla_assets/meshes/object_413.mesh</file>
+        <file>tesla_assets/meshes/object_416.mesh</file>
+        <file>tesla_assets/meshes/object_419.mesh</file>
+        <file>tesla_assets/meshes/object_42.mesh</file>
+        <file>tesla_assets/meshes/object_422.mesh</file>
+        <file>tesla_assets/meshes/object_425.mesh</file>
+        <file>tesla_assets/meshes/object_428.mesh</file>
+        <file>tesla_assets/meshes/object_432.mesh</file>
+        <file>tesla_assets/meshes/object_435.mesh</file>
+        <file>tesla_assets/meshes/object_438.mesh</file>
+        <file>tesla_assets/meshes/object_441.mesh</file>
+        <file>tesla_assets/meshes/object_445.mesh</file>
+        <file>tesla_assets/meshes/object_448.mesh</file>
+        <file>tesla_assets/meshes/object_45.mesh</file>
+        <file>tesla_assets/meshes/object_452.mesh</file>
+        <file>tesla_assets/meshes/object_454.mesh</file>
+        <file>tesla_assets/meshes/object_456.mesh</file>
+        <file>tesla_assets/meshes/object_458.mesh</file>
+        <file>tesla_assets/meshes/object_460.mesh</file>
+        <file>tesla_assets/meshes/object_462.mesh</file>
+        <file>tesla_assets/meshes/object_464.mesh</file>
+        <file>tesla_assets/meshes/object_467.mesh</file>
+        <file>tesla_assets/meshes/object_469.mesh</file>
+        <file>tesla_assets/meshes/object_471.mesh</file>
+        <file>tesla_assets/meshes/object_473.mesh</file>
+        <file>tesla_assets/meshes/object_475.mesh</file>
+        <file>tesla_assets/meshes/object_477.mesh</file>
+        <file>tesla_assets/meshes/object_479.mesh</file>
+        <file>tesla_assets/meshes/object_48.mesh</file>
+        <file>tesla_assets/meshes/object_51.mesh</file>
+        <file>tesla_assets/meshes/object_54.mesh</file>
+        <file>tesla_assets/meshes/object_57.mesh</file>
+        <file>tesla_assets/meshes/object_60.mesh</file>
+        <file>tesla_assets/meshes/object_63.mesh</file>
+        <file>tesla_assets/meshes/object_66.mesh</file>
+        <file>tesla_assets/meshes/object_69.mesh</file>
+        <file>tesla_assets/meshes/object_72.mesh</file>
+        <file>tesla_assets/meshes/object_75.mesh</file>
+        <file>tesla_assets/meshes/object_78.mesh</file>
+        <file>tesla_assets/meshes/object_81.mesh</file>
+        <file>tesla_assets/meshes/object_84.mesh</file>
+        <file>tesla_assets/meshes/object_86.mesh</file>
+        <file>tesla_assets/meshes/object_89.mesh</file>
+        <file>tesla_assets/meshes/object_9.mesh</file>
+        <file>tesla_assets/meshes/object_92.mesh</file>
+        <file>tesla_assets/meshes/object_95.mesh</file>
+        <file>tesla_assets/meshes/object_98.mesh</file>
+        <file>Adas.qml</file>
+        <file>QUItBattery.qml</file>
+        <file>images/bar_level2.png</file>
+        <file>images/battery2.png</file>
+        <file>images/battery_bar.png</file>
+        <file>images/lightning.png</file>
+        <file>images/particle.png</file>
+        <file>assets/xe1 1.png</file>
+        <file>assets/airbag_icon.png</file>
+    </qresource>
+</RCC>

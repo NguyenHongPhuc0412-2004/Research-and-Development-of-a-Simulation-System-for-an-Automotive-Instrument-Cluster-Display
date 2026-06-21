@@ -1,0 +1,60 @@
+# ==========================================
+# 1. STM32 / GCC Build Artifacts & Configs
+# ==========================================
+# Thư mục build tự sinh
+Debug/
+Release/
+
+# Các file thực thi và cấu hình sinh ra khi build
+*.elf
+*.list
+*.map
+*.hex
+*.bin
+*.launch
+
+# Các file trung gian khi biên dịch C/C++
+*.o
+*.d
+*.su
+*.cyclo
+
+# ==========================================
+# 2. Qt Creator / QML
+# ==========================================
+# File cấu hình IDE cục bộ (mỗi máy một khác)
+*.pro.user
+*.pro.user.*
+
+# Thư mục build mặc định của Qt (phòng hờ)
+build-*/
+
+# Các file backup tự sinh của Qt (như Dashboard1.qml.bak_223805)
+*.bak_*
+*.bak
+
+# ==========================================
+# 3. File dung lượng lớn / AI Model / Media
+# ==========================================
+# Mô hình AI nặng
+*.onnx
+
+# File nén backup dự án
+*.tar.gz
+*.zip
+*.rar
+
+# Video demo nặng (nếu bạn không muốn track video)
+*.mp4
+
+# ==========================================
+# 4. File tạm của Hệ điều hành và Text Editor
+# ==========================================
+# Cache của Vim
+*.swp
+*.swo
+*~
+
+# File hệ thống Windows/macOS
+.DS_Store
+Thumbs.db

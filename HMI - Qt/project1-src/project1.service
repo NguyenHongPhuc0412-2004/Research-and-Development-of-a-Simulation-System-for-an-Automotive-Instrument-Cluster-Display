@@ -1,0 +1,13 @@
+[Unit]
+Description=Qt Application - project1
+After=systemd-user-sessions.service
+
+[Service]
+ExecStart=/usr/bin/env QT_QPA_PLATFORM=eglfs /usr/bin/project1
+Restart=always
+User=root
+WorkingDirectory=/usr/bin
+
+[Install]
+WantedBy=multi-user.target
+
